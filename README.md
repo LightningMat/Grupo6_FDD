@@ -1,4 +1,4 @@
-#🧪 Grupo 1 – Fundamentos de Diseño
+# 🧪 Grupo 1 – Fundamentos de Diseño
 
 ## ✅Propósito del Proyecto
 Desarrollar 
