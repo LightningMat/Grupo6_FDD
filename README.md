@@ -4,9 +4,7 @@
 En este repositorio se documentará los avances de un **"sensor de humo, humedad y temperatura"** con la finalidad de prevenir incendios forestales, ayudando a la conservación de lugares con gran cantidad de vegetación y temperaturas altas como la Selva Tropical.
 
 Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, la cual busca generar respuestas rápidas y de adaptación ante el cambio climático.
-
 ![Imagen de WhatsApp 2025-08-21 a las 13 42 07_30795eb4](https://github.com/user-attachments/assets/d96bee9a-2b08-4863-bff8-d4748d4d9b3e)
-
 Nuestro sensor al detectar humo y un cambio en la humedad y temperatura, activará inmediatamente un sistema de riego para prevenir los incendios forestales.
 
 
