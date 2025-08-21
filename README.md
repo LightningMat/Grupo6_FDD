@@ -5,7 +5,7 @@ Desarrollar
 
 ## 👥 Integrantes
 - Ruth Elizabeth Atiro Cobeñas
-- Sheila Rocío Calla Mamani h
+- Sheila Rocío Calla Mamani 
 - Marco Antonio Ancco Quispe  
 - Henrry Grover Ppacco Ttira
 - Benedict Mattew Quispe Paniagua 
