@@ -27,9 +27,9 @@ Diseñar e implementar un **sistema de riego automatizado y eficiente**, capaz d
 
 ## Impacto Esperado
 
-- 🔥 **Prevención de incendios forestales** mediante control de humedad en suelos críticos.  
-- 💧 **Uso eficiente del agua**, al regar únicamente cuando se detecta sequedad.  
-- 🌱 **Protección de la biodiversidad** y reducción de emisiones de CO₂ causadas por incendios.
+- 🔥 **Prevención de incendios forestales**: mediante control de humedad en suelos críticos.  
+- 💧 **Uso eficiente del agua**: al regar únicamente cuando se detecta sequedad.  
+- 🌱 **Protección de la biodiversidad**: reducción de emisiones de CO₂ causadas por incendios.
 
 ## ¿Cómo colaborar?
 
@@ -41,7 +41,7 @@ Estamos abiertos a nuevas ideas, mejoras en el código y aportes relacionados co
 ## 🎓 Proyecto académico
 
 Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025**  
-**Universidad Peruana Cayetano Heredia **  
+**Universidad Peruana Cayetano Heredia**  
 Facultad de Ingeniería 
 
 ## 🌱 Beneficios e Impacto
