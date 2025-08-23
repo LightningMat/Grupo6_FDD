@@ -44,9 +44,5 @@ Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025*
 **Universidad Peruana Cayetano Heredia**  
 Facultad de Ingeniería 
 
-## 🌱 Beneficios e Impacto
-- 
-- 
-
 ## Bibliografía
 Naciones Unidas. (2023). ODS 13: Acción por el Clima. Naciones Unidas. https://www.un.org/sustainabledevelopment/es/climate-change-2/
