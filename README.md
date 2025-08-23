@@ -8,6 +8,16 @@ Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR E
 Nuestro sensor al detectar humo y un cambio en la humedad y temperatura, activará inmediatamente un sistema de riego para prevenir los incendios forestales.
 
 
+## Objetivo del Proyecto
+
+Diseñar e implementar un **sistema de riego automatizado y eficiente**, capaz de:  
+
+- Monitorear la humedad del suelo y del ambiente.  
+- Activar el riego solo cuando los niveles estén por debajo de los umbrales críticos.  
+- Mantener el terreno húmedo en zonas de riesgo, disminuyendo la probabilidad de propagación de incendios.  
+- Optimizar el uso de agua mediante riegos puntuales y controlados.  
+
+
 ## 👥 Integrantes
 - Ruth Elizabeth Atiro Cobeñas
 - Sheila Rocío Calla Mamani 
@@ -15,11 +25,28 @@ Nuestro sensor al detectar humo y un cambio en la humedad y temperatura, activar
 - Henrry Grover Ppacco Ttira
 - Benedict Mattew Quispe Paniagua 
 
+## Impacto Esperado
 
-## 📚 Contexto Académico
-Este proyecto fue desarrollado como parte del curso **Fundamentos de Diseño (FdD)** en la **Universidad Peruana Cayetano Heredia (UPCH)**.
+- 🔥 **Prevención de incendios forestales** mediante control de humedad en suelos críticos.  
+- 💧 **Uso eficiente del agua**, al regar únicamente cuando se detecta sequedad.  
+- 🌱 **Protección de la biodiversidad** y reducción de emisiones de CO₂ causadas por incendios.
+
+## ¿Cómo colaborar?
+
+Estamos abiertos a nuevas ideas, mejoras en el código y aportes relacionados con:  
+- Nuevos sensores o métodos de detección.  
+- Optimización del uso de energía y agua.  
+- Diseño de interfaces 
+
+## 🎓 Proyecto académico
+
+Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025**  
+**Universidad Peruana Cayetano Heredia **  
+Facultad de Ingeniería 
 
 ## 🌱 Beneficios e Impacto
 - 
 - 
-- 
+
+## Bibliografía
+Naciones Unidas. (2023). ODS 13: Acción por el Clima. Naciones Unidas. https://www.un.org/sustainabledevelopment/es/climate-change-2/
