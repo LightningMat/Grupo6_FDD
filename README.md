@@ -45,4 +45,4 @@ Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025*
 Facultad de Ingeniería 
 
 ## Bibliografía
-Naciones Unidas. (2023). ODS 13: Acción por el Clima. Naciones Unidas. https://www.un.org/sustainabledevelopment/es/climate-change-2/
+Naciones Unidas. (2023). Acción climática. Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/climate-action/
