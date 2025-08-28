@@ -26,13 +26,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | **Atiro Cobeñas, Ruth Elizabeth** | Líder del equipo | Innovación social, sostenibilidad |
-| ![result_BENEDICT](https://github.com/user-attachments/assets/684c6063-4952-47cd-ae69-9aa41a3274b8)
+| ![result_RUTH](https://github.com/user-attachments/assets/8d219dff-69b6-46a8-9817-17783455f286)
+ | **Atiro Cobeñas, Ruth Elizabeth** | Líder del equipo | Innovación social, sostenibilidad |
+| ![result_RUTH](https://github.com/user-attachments/assets/2e030b43-6e28-46cf-973f-b20b84b4e5d1)
  | **Calla Mamani, Sheila Rocio** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| ![BENEDICT](https://github.com/user-attachments/assets/cd42b0fb-1a25-45ac-acb2-6ad0efec717b) | **Quispe Paniagua, Benedict Mattew** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| ![MARCO](https://github.com/user-attachments/assets/e0704c82-c061-489c-8c82-e222282ce84f)
- | **Ancco Quispe, Marco Antonio** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| ![result_BENEDICT](https://github.com/user-attachments/assets/684c6063-4952-47cd-ae69-9aa41a3274b8) | **Quispe Paniagua, Benedict Mattew** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+|  | **** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+|  | **Ancco Quispe, Marco Antonio** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
