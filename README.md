@@ -1,4 +1,4 @@
-# Equipo 06 - Fundamentos de Diseño 2025-2  
+<img width="1600" height="1000" alt="equipo" src="https://github.com/user-attachments/assets/82214bd2-2e0d-4aa6-8cad-3694061b4d5c" /># Equipo 06 - Fundamentos de Diseño 2025-2  
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
@@ -19,7 +19,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
+  ![Uploading equipo.png…]
   <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
