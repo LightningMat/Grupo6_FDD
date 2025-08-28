@@ -1,4 +1,4 @@
-# 🧪 Grupo 2 – Fundamentos de Diseño
+# 🧪 Grupo 6 – Fundamentos de Diseño
 
 ## ✅Propósito del Proyecto
 En este repositorio se documentará los avances de un **"sensor de humo, humedad y temperatura conectado a un sistema de riego"**, con la finalidad de prevenir incendios forestales, ayudando a la conservación de lugares con gran cantidad de vegetación y temperaturas altas como la Selva Tropical.
