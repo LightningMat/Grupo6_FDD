@@ -26,7 +26,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/result_RUTH.png" width="90"/> | **Ruth Elizabeth Atiro Cobeñas** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imagenes/result_RUTH.png" width="90"/> | **Ruth Elizabeth Atiro Cobeñas** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/result_SHEY.png" width="90"/> | **Sheila Rocío Calla Mamani** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/result_BENEDICT.png" width="90"/> | **Benedict Mattew Quispe Paniagua** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 |  | **** | Encargado/a de documentación | Comunicación científica, redacción técnica |
