@@ -29,7 +29,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Atiro Cobeñas, Ruth Elizabeth** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="![BENEDICT](https://github.com/user-attachments/assets/cd42b0fb-1a25-45ac-acb2-6ad0efec717b)
+" width="90"/> | **Atiro Cobeñas, Ruth Elizabeth** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Calla Mamani, Sheila Rocio** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Quispe Paniagua, Benedict Mattew** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **** | Encargado/a de documentación | Comunicación científica, redacción técnica |
