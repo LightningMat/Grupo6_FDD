@@ -1,24 +1,27 @@
-
+# Equipo 0X - Fundamentos de Diseño 2025-2  
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 06** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-**•	ODS 6: Agua Limpia y Saneamiento**
-•	ODS 9: Industria, Innovación e Infraestructura
-•	ODS 13: Acción por el clima
-•	ODS 15: Vida de ecosistema terrestres
-•	ODS 11: Ciudades y Comunidades Sostenibles
+- ODS 3: Salud y Bienestar  
+- ODS 6: Agua Limpia y Saneamiento  
+- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 11: Ciudades y Comunidades Sostenibles  
+- ODS 13: Acción por el Clima  
 
 ---
 
 ## 📸 Fotografía del Equipo  
-![GRUPO](https://github.com/user-attachments/assets/caa1133c-3b32-4b2c-abff-29cb88839619)
+<p align="center">
+  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
 
 ---
 
@@ -26,14 +29,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|![result_RUTH](https://github.com/user-attachments/assets/8d219dff-69b6-46a8-9817-17783455f286)| **Atiro Cobeñas, Ruth Elizabeth** | Líder del equipo | Innovación social, sostenibilidad |
-| ![result_RUTH](https://github.com/user-attachments/assets/2e030b43-6e28-46cf-973f-b20b84b4e5d1)
- | **Calla Mamani, Sheila Rocio** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| ![result_BENEDICT](https://github.com/user-attachments/assets/684c6063-4952-47cd-ae69-9aa41a3274b8) | **Quispe Paniagua, Benedict Mattew** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-|  | **** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-|  | **Ancco Quispe, Marco Antonio** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-
----
-
-## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
