@@ -1,48 +1,41 @@
-# 🧪 Grupo 6 – Fundamentos de Diseño
+# Equipo 0X - Fundamentos de Diseño 2025-2  
+### Carrera de Ingeniería Ambiental / Informática / Industrial  
+**Universidad Peruana Cayetano Heredia**
 
-## ✅Propósito del Proyecto
-En este repositorio se documentará los avances de un **"sensor de humo, humedad y temperatura conectado a un sistema de riego"**, con la finalidad de prevenir incendios forestales, ayudando a la conservación de lugares con gran cantidad de vegetación y temperaturas altas como la Selva Tropical.
+---
 
-Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, la cual busca generar respuestas rápidas y de adaptación ante el cambio climático.
-![Imagen de WhatsApp 2025-08-21 a las 13 42 07_30795eb4](https://github.com/user-attachments/assets/d96bee9a-2b08-4863-bff8-d4748d4d9b3e)
-Nuestro sensor al detectar humo y un cambio en la humedad y temperatura, activará inmediatamente un sistema de riego para prevenir los incendios forestales.
+## 🌍 Descripción del Equipo  
+Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
+- ODS 3: Salud y Bienestar  
+- ODS 6: Agua Limpia y Saneamiento  
+- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 11: Ciudades y Comunidades Sostenibles  
+- ODS 13: Acción por el Clima  
 
-## Objetivo del Proyecto
+---
 
-Diseñar e implementar un **sistema de riego automatizado y eficiente**, capaz de:  
+## 📸 Fotografía del Equipo  
+<p align="center">
+  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
 
-- Monitorear la humedad del suelo y del ambiente.  
-- Activar el riego solo cuando los niveles estén por debajo de los umbrales críticos.  
-- Mantener el terreno húmedo en zonas de riesgo, disminuyendo la probabilidad de propagación de incendios.  
-- Optimizar el uso de agua mediante riegos puntuales y controlados.  
+---
 
+## 👥 Integrantes del Equipo  
 
-## 👥 Integrantes
-- Ruth Elizabeth Atiro Cobeñas
-- Sheila Rocío Calla Mamani 
-- Marco Antonio Ancco Quispe  
-- Henrry Grover Ppacco Ttira
-- Benedict Mattew Quispe Paniagua 
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
-## Impacto Esperado
+---
 
-- 🔥 **Prevención de incendios forestales**: mediante control de humedad en suelos críticos.  
-- 💧 **Uso eficiente del agua**: al regar únicamente cuando se detecta sequedad.  
-- 🌱 **Protección de la biodiversidad**: reducción de emisiones de CO₂ causadas por incendios.
-
-## ¿Cómo colaborar?
-
-Estamos abiertos a nuevas ideas, mejoras en el código y aportes relacionados con:  
-- Nuevos sensores o métodos de detección.  
-- Optimización del uso de energía y agua.  
-- Diseño de interfaces 
-
-## 🎓 Proyecto académico
-
-Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025**  
-**Universidad Peruana Cayetano Heredia**  
-Facultad de Ingeniería 
-
-## Bibliografía
-Naciones Unidas. (2023). Acción climática. Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/climate-action/
+## 📌 Resumen Final  
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
