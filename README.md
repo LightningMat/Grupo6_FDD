@@ -18,10 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📸 Fotografía del Equipo  
-<p align="center">
-  ![Uploading equipo.png…]
-  <em>Figura 1. Fotografía del equipo 0X</em>
-</p>
+![GRUPO](https://github.com/user-attachments/assets/caa1133c-3b32-4b2c-abff-29cb88839619)
 
 ---
 
