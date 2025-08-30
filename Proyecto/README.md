@@ -1,4 +1,4 @@
-# "YUKENE JENAYU"
+# 🌎"YUKENE JENAYU"💧
 
 ## ✅Propósito del Proyecto
 En este repositorio se documentará los avances de un **"sensor de hidrocarburos"**, con la finalidad de prevenir el consumo de agua contaminada con petróleo y sus derivados en comunidades de la Amazonía y la Sierra peruana.
