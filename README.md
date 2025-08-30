@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 06** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 06** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental e Informática.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
