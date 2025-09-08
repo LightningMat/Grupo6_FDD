@@ -3,11 +3,11 @@
 ## ✅Propósito del Proyecto
 En este repositorio se documentará los avances de una **"mini estación de monitoreo"**, para evaluar la calidad del agua y las condiciones del suelo de los manglares, como herramienta de alerta temprana y planificación local.
 
-Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca mejorar la capacidad de adaptación y respuesta ante riesgos climáticos.
+Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca mejorar la capacidad de adaptación y respuesta ante riesgos climáticos (1).
 
-<img width="327" height="154" alt="image" src="https://github.com/user-attachments/assets/7be57d7e-ae69-4744-acbb-9de017bf9bf0" />
+<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/a39f56b4-7280-4bf4-97ca-bfdc09974e55" />
 
-En el contexto peruano, este objetivo enfrenta desafíos críticos, especialmente en zonas rurales y amazónicas, donde la infraestructura es limitada y los impactos de actividades extractivas son más severos.
+En el contexto peruano, este objetivo enfrenta desafíos críticos, especialmente en zonas rurales, donde la infraestructura es limitada y los impactos son más severos.
 
 ## ‼️Problemática
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/7c401a23-4fa9-4936-a642-64490020c16a" />
@@ -59,6 +59,6 @@ Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025*
 Facultad de Ingeniería 
 
 ## 📖Bibliografía
-Naciones Unidas. (2023). Acción climática. Objetivos de Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/climate-action/
+1. Moran M. Cambio climático [Internet]. Desarrollo Sostenible. [citado 8 de septiembre de 2025]. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/ 
 
 Organismo de Evaluación y Fiscalización Ambiental. (2025). El OEFA inicia supervisión ambiental ante derrame de petróleo crudo en el Oleoducto Norperuano. https://www.gob.pe/institucion/oefa/noticias/1128953-el-oefa-inicia-supervision-ambiental-ante-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano
