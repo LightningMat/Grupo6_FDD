@@ -4,7 +4,9 @@
 En este repositorio se documentará los avances de una **"mini estación de monitoreo"**, para evaluar la calidad del agua y las condiciones del suelo de los manglares, como herramienta de alerta temprana y planificación local.
 
 Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca mejorar la capacidad de adaptación y respuesta ante riesgos climáticos.
+
 <img width="327" height="154" alt="image" src="https://github.com/user-attachments/assets/7be57d7e-ae69-4744-acbb-9de017bf9bf0" />
+
 En el contexto peruano, este objetivo enfrenta desafíos críticos, especialmente en zonas rurales y amazónicas, donde la infraestructura es limitada y los impactos de actividades extractivas son más severos.
 
 ## ‼️Problemática
