@@ -9,6 +9,11 @@ Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR E
 
 En el contexto peruano, este objetivo enfrenta desafíos críticos, especialmente en zonas rurales, donde la infraestructura es limitada y los impactos son más severos.
 
+
+## Problematica
+El cambio climático está transformando drásticamente los ecosistemas costeros, elevando el nivel del mar, alterando la temperatura y modificando la dinámica natural del agua, lo que compromete la capacidad de los manglares para proteger la costa, capturar carbono y sostener la biodiversidad. En el caso de Tumbes, los manglares sufren una creciente presión tanto por el cambio climático como por actividades humanas, entre ellas la acuicultura intensiva, el crecimiento urbano desordenado y los derrames de hidrocarburos. Estas amenazas reducen su capacidad de almacenar carbono y provocan alteraciones críticas en la calidad del agua, como variaciones en la salinidad, el oxígeno disuelto y el pH, que comprometen la regeneración del ecosistema. Sin embargo, la problemática central radica en la ausencia de sistemas de monitoreo accesibles y continuos que registren en tiempo real parámetros clave como el nivel del agua, indicador esencial para anticipar inundaciones, sequías y cambios en la dinámica ambiental. Esta carencia de información temprana limita la gestión preventiva y expone tanto al ecosistema como a las comunidades locales a una degradación progresiva y difícil de revertir.
+
+
 ## 🔍Objetivo del Proyecto
 Diseñar e implementar un sistema capaz de:
 - Medir en tiempo real parámetros físico-químicos del agua.
