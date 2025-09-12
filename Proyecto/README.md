@@ -45,3 +45,4 @@ Facultad de Ingeniería
 
 ## 📖Bibliografía
 1. Moran M. Cambio climático [Internet]. Desarrollo Sostenible. [citado 8 de septiembre de 2025]. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/ 
+2. Alongi DM. Carbon sequestration in mangrove forests. Carbon Manag. 1 de junio de 2012;3(3):313-22.
