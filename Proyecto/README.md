@@ -7,8 +7,6 @@ Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR E
 
 <img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/a39f56b4-7280-4bf4-97ca-bfdc09974e55" />
 
-En el contexto peruano, los manglares enfrentan desafíos crecientes debido al aumento de la temperatura y variabilidad de lluvias, que alteran el equilibrio hídrico, la intrusión salina y cambios en la calidad del agua, afectando la biodiversidad local y la presión antrópica (deforestación, contaminación, uso no sostenible de recursos).
-
 La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (oxígeno disuelto, pH, turbidez). Los datos recolectados permitirán: detectar condiciones críticas en tiempo real, generar evidencia científica accesible y fortalecer la participación de comunidades locales en la gestión y conservación.
 
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
