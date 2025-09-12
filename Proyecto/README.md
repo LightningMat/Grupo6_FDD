@@ -29,9 +29,11 @@ Diseñar e implementar un sistema capaz de:
 - Benedict Mattew Quispe Paniagua 
 
 ## ✨Impacto Esperado
-1. Conservación deñ ecosistema de los manglares.
-2. Prevención de enfermedades hídricas.
-3. Monitoreo en tiempo real.
+1. Generar datos en tiempo real sobre parámetros críticos como: salinidad, temperatura, nivel freático y calidad del agua.
+2. Detección temprana de alteraciones causadas por: intrusión salina, cambios en el flujo hídrico y derrames de sustancias contaminantes.
+3. Protección de hábitats clave y de la fauna asociada.
+4. Monitoreo del carbono azul almacenado en los suelos de manglar, aportando evidencia para estrategias de mitigación climática.
+5. Fortalecerá iniciativas de restauración activa y resiliencia ecológica en zonas vulnerables, integrando ciencia, tecnología y conservación.
 
 ## 🤝¿Cómo colaborar?
 Estamos abiertos a nuevas ideas, mejoras en el código y aportes relacionados con:  
