@@ -1,4 +1,4 @@
-# 🌎"MANGLAR LAB"💧
+# 🌎"**MANGLAR LAB**"💧
 
 ## ✅Propósito del Proyecto
 En este repositorio se documentarán los avances del desarrollo de una **mini estación de monitoreo ambiental**, diseñada para evaluar la calidad del agua y las condiciones del suelo en ecosistemas de manglar. La estación funcionará como una herramienta de alerta temprana y apoyo a la planificación local, brindando datos que permitan identificar riesgos, anticipar impactos y proponer medidas de adaptación.
