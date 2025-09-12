@@ -1,16 +1,19 @@
 # 🌎"YUKENE JENAYU"💧
 
 ## ✅Propósito del Proyecto
-En este repositorio se documentará los avances de una **"mini estación de monitoreo"**, para evaluar la calidad del agua y las condiciones del suelo de los manglares, como herramienta de alerta temprana y planificación local.
+En este repositorio se documentarán los avances del desarrollo de una *mini estación de monitoreo ambiental*, diseñada para evaluar la calidad del agua y las condiciones del suelo en ecosistemas de manglar. La estación funcionará como una herramienta de alerta temprana y apoyo a la planificación local, brindando datos que permitan identificar riesgos, anticipar impactos y proponer medidas de adaptación.
 
-Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca mejorar la capacidad de adaptación y respuesta ante riesgos climáticos (1).
+Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca “fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales en todos los países”(1).
 
 <img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/a39f56b4-7280-4bf4-97ca-bfdc09974e55" />
 
-En el contexto peruano, este objetivo enfrenta desafíos críticos, especialmente en zonas rurales, donde la infraestructura es limitada y los impactos son más severos.
+En el contexto peruano, los manglares enfrentan desafíos crecientes debido al aumento de la temperatura y variabilidad de lluvias, que alteran el equilibrio hídrico, la intrusión salina y cambios en la calidad del agua, afectando la biodiversidad local y la presión antrópica (deforestación, contaminación, uso no sostenible de recursos).
 
+La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (oxígeno disuelto, pH, turbidez). Los datos recolectados permitirán: detectar condiciones críticas en tiempo real, generar evidencia científica accesible y fortalecer la participación de comunidades locales en la gestión y conservación.
 
-## Problematica
+De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
+
+## ‼️Problematica
 El cambio climático está transformando drásticamente los ecosistemas costeros, elevando el nivel del mar, alterando la temperatura y modificando la dinámica natural del agua, lo que compromete la capacidad de los manglares para proteger la costa, capturar carbono y sostener la biodiversidad. En el caso de Tumbes, los manglares sufren una creciente presión tanto por el cambio climático como por actividades humanas, entre ellas la acuicultura intensiva, el crecimiento urbano desordenado y los derrames de hidrocarburos. Estas amenazas reducen su capacidad de almacenar carbono y provocan alteraciones críticas en la calidad del agua, como variaciones en la salinidad, el oxígeno disuelto y el pH, que comprometen la regeneración del ecosistema. Sin embargo, la problemática central radica en la ausencia de sistemas de monitoreo accesibles y continuos que registren en tiempo real parámetros clave como el nivel del agua, indicador esencial para anticipar inundaciones, sequías y cambios en la dinámica ambiental. Esta carencia de información temprana limita la gestión preventiva y expone tanto al ecosistema como a las comunidades locales a una degradación progresiva y difícil de revertir.
 
 
