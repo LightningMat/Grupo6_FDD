@@ -44,7 +44,7 @@ Estamos abiertos a nuevas ideas, mejoras en el código y aportes relacionados co
 ## 🎓 Proyecto académico
 Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025**  
 **Universidad Peruana Cayetano Heredia**  
-Facultad de Ingeniería 
+Facultad de Ciencias e Ingenierías 
 
 ## 📖Bibliografía
 1. Moran M. Cambio climático [Internet]. Desarrollo Sostenible. [citado 8 de septiembre de 2025]. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/ 
