@@ -3,6 +3,11 @@
 **Universidad Peruana Cayetano Heredia**
 
 ---
+<p align="center">
+  <img src="Recursos/Imagenes/ods13.gif" alt="ODS 12 - Producción y consumo responsables" width="1000"/>
+</p>
+
+---
 
 ## 🌍 Descripción del Equipo  
 Somos el **Equipo 06** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental e Informática.  
