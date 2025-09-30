@@ -1,13 +1,13 @@
 # 🌎"**MANGLARLAB**"💧
 
 ## ✅Propósito del Proyecto
-En este repositorio se documentarán los avances del desarrollo de una **mini estación de monitoreo ambiental**, diseñada para evaluar la calidad del agua y las condiciones del suelo en ecosistemas de manglar. La estación funcionará como una herramienta de alerta temprana y apoyo a la planificación local, brindando datos que permitan identificar riesgos, anticipar impactos y proponer medidas de adaptación.
+En este repositorio se documentarán los avances del desarrollo de una **mini estación de monitoreo ambiental**, diseñada para evaluar en tiempo real el estado del agua en ecosistemas de manglar. La estación funcionará como una herramienta de alerta temprana y apoyo a la planificación local, brindando datos que permitan identificar riesgos, anticipar impactos y proponer medidas de adaptación.
 
-Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 13: ACCIÓN POR EL CLIMA"**, en específico la **meta 13.1**, que busca “fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales en todos los países”(1).
+Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 14: VIDA SUBMARINA"**, en específico la **meta 14.2**, que busca “garantizar la gestión sostenible y la restauración de los ecosistemas marinos y costeros, fortaleciendo su resiliencia y asegurando la salud y productividad de los océanos”(1).
 
 <img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/a39f56b4-7280-4bf4-97ca-bfdc09974e55" />
 
-La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (oxígeno disuelto, pH, turbidez). Los datos recolectados permitirán: detectar condiciones críticas en tiempo real, generar evidencia científica accesible y fortalecer la participación de comunidades locales en la gestión y conservación.
+La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (carbono disuelto, pH, turbidez). Los datos recolectados permitirán: detectar condiciones críticas en tiempo real, generar evidencia científica accesible y fortalecer la participación de comunidades locales en la gestión y conservación.
 
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
 
@@ -21,12 +21,6 @@ Diseñar e implementar un sistema capaz de:
 - Monitorear variables del suelo y nivel del agua.
 - Diseñar e implementar un sistema de adquisición, transmisión y almacenamiento de datos.
 
-## 👥 Integrantes
-- Ruth Elizabeth Atiro Cobeñas
-- Sheila Rocío Calla Mamani 
-- Marco Antonio Ancco Quispe  
-- Henrry Grover Ppacco Ttira
-- Benedict Mattew Quispe Paniagua 
 
 ## ✨Impacto Esperado
 1. Generar datos en tiempo real sobre parámetros críticos como: salinidad, temperatura, nivel freático y calidad del agua.
