@@ -13,7 +13,9 @@ De esta forma, la mini estación se convierte en un puente entre ciencia, tecnol
 
 ## ‼️Problematica
 El cambio climático está transformando drásticamente los ecosistemas costeros, elevando el nivel del mar, alterando la temperatura y modificando la dinámica natural del agua, lo que compromete la capacidad de los manglares para proteger la costa, capturar carbono y sostener la biodiversidad.
+
 **Intrusión salina**
+
 <img width="669" height="649" alt="image" src="https://github.com/user-attachments/assets/7cefab4d-e278-4b76-b0fd-a576a1ea6c8a" />
 “Aumentos (azul) y pérdidas (naranja) de manglares entre 1984 y 2021, estado de Amapá. (2)”
 
