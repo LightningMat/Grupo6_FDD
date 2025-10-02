@@ -7,7 +7,7 @@ Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 14: VIDA SUBMARIN
 
 <img width="1600" height="577" alt="image" src="https://github.com/user-attachments/assets/b7054a5e-ed93-4d25-9c1b-3496c0fdd4c0" />
 
-La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (carbono disuelto, pH, turbidez). Estos sensores estarán conectados a través de tecnología IoT, lo que permitirá transmitir información en tiempo real a plataformas digitales y aplicaciones móvil.
+La propuesta busca innovar mediante el uso de sensores de nivel de agua, salinidad y de CO2 en el aire, con posibilidad de integrar variables adicionales (pH, turbidez, etc). Estos sensores estarán conectados a través de tecnología IoT, lo que permitirá transmitir información en tiempo real a plataformas digitales y aplicaciones móvil.
 
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
 
@@ -21,12 +21,11 @@ En el caso de Tumbes, los manglares sufren una creciente presión tanto por el c
 <img width="489" height="621" alt="image" src="https://github.com/user-attachments/assets/7de5c397-60b3-4f5a-a10f-f4249c86c30f" />
 
 
-
 ## 🔍Objetivo del Proyecto
 Diseñar e implementar un sistema capaz de:
-- Medir en tiempo real parámetros físico-químicos del agua.
-- Monitorear variables del suelo y nivel del agua.
-- Diseñar e implementar un sistema de adquisición, transmisión y almacenamiento de datos.
+- Medir en tiempo real parámetros físico-químicos como la concentracion de CO2 en el aire, la salinidad y el nivel del agua.
+- Monitorear variaciones del nivel del agua y de concentración de CO2, con el fin de detectar cambios críticos y anticipar riesgos.
+- Diseñar e implementar un sistema de adquisición, transmisión y almacenamiento de datos, usando tecnología IoT y energía solar, que permita la visualización y análisis de la información en plataformas digitales accesibles.
 
 
 ## ✨Impacto Esperado
