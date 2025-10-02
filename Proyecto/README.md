@@ -49,5 +49,6 @@ Facultad de Ciencias e Ingenierías
 
 ## 📖Bibliografía
 1. Moran M. Cambio climático [Internet]. Desarrollo Sostenible. [citado 8 de septiembre de 2025]. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/ 
-2. Takahashi K, Martínez Grimaldo A. Impacto de la variabilidad y cambio climático en el ecosistema de Manglares de Tumbes, Perú. 30 de abril de 2015 [citado 1 de octubre de 2025]; Disponible en: http://hdl.handle.net/20.500.12816/6933.  Visschers LLB, Santos CD, Franco AMA. Accelerated migration of mangroves indicate large-scale saltwater intrusion in Amazon coastal wetlands. Science of The Total Environment. 25 de agosto de 2022;836:155679.
+2. Takahashi K, Martínez Grimaldo A. Impacto de la variabilidad y cambio climático en el ecosistema de Manglares de Tumbes, Perú. 30 de abril de 2015 [citado 1 de octubre de 2025]; Disponible en: http://hdl.handle.net/20.500.12816/6933.
+3. Visschers LLB, Santos CD, Franco AMA. Accelerated migration of mangroves indicate large-scale saltwater intrusion in Amazon coastal wetlands. Science of The Total Environment. 25 de agosto de 2022;836:155679.
 4.  Ocean Acidification | Smithsonian Ocean [Internet]. [citado 1 de octubre de 2025]. Disponible en: https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification
