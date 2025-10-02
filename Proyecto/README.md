@@ -12,7 +12,7 @@ La propuesta busca innovar mediante el uso de sensores de nivel de agua y salini
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
 
 ## ‼️Problematica
-El cambio climático está transformando drásticamente los ecosistemas costeros, elevando el nivel del mar, alterando la temperatura y modificando la dinámica natural del agua, lo que compromete la capacidad de los manglares para proteger la costa, capturar carbono y sostener la biodiversidad (2).
+El aumento del nivel del mar provoca una intrusión salina que envenena el suelo, afectando a los árboles más allá de sus límites de tolerancia. Al mismo tiempo, el exceso de agua los ahoga lentamente, impidiendo que sus raíces obtengan el oxígeno que necesitan para sobrevivir. La falta de aireación lleva a una condición llamada hipoxia, que, junto con la salinidad extrema, causa la muerte de los árboles.Y no solo eso. La acidificación oceánica, resultado de la absorción de CO2 por el agua, crea ácido carbónico que afecta la base de la cadena alimenticia de los manglares, como los crustáceos, comprometiendo su resiliencia de manera integral. Como resultado, estamos perdiendo estos ecosistemas a un ritmo alarmante. Datos recientes muestran que, a nivel global, hemos perdido alrededor del 35% de los manglares en los últimos 50 años (2).
 
 <img width="1378" height="703" alt="image" src="https://github.com/user-attachments/assets/b962b5fd-b3f6-42a1-887c-86f56e9c0925" />
 
@@ -46,6 +46,5 @@ Facultad de Ciencias e Ingenierías
 
 ## 📖Bibliografía
 1. Moran M. Cambio climático [Internet]. Desarrollo Sostenible. [citado 8 de septiembre de 2025]. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/ 
-2. Alongi DM. Carbon sequestration in mangrove forests. Carbon Manag. 1 de junio de 2012;3(3):313-22.
-3.  Visschers LLB, Santos CD, Franco AMA. Accelerated migration of mangroves indicate large-scale saltwater intrusion in Amazon coastal wetlands. Science of The Total Environment. 25 de agosto de 2022;836:155679.
+2. Takahashi K, Martínez Grimaldo A. Impacto de la variabilidad y cambio climático en el ecosistema de Manglares de Tumbes, Perú. 30 de abril de 2015 [citado 1 de octubre de 2025]; Disponible en: http://hdl.handle.net/20.500.12816/6933.  Visschers LLB, Santos CD, Franco AMA. Accelerated migration of mangroves indicate large-scale saltwater intrusion in Amazon coastal wetlands. Science of The Total Environment. 25 de agosto de 2022;836:155679.
 4.  Ocean Acidification | Smithsonian Ocean [Internet]. [citado 1 de octubre de 2025]. Disponible en: https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification
