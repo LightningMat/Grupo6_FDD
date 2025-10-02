@@ -3,11 +3,11 @@
 ## ✅Propósito del Proyecto
 En este repositorio se documentarán los avances del desarrollo de una **mini estación de monitoreo ambiental**, diseñada para evaluar en tiempo real el estado del agua en ecosistemas de manglar. La estación funcionará como una herramienta de alerta temprana y apoyo a la planificación local, brindando datos que permitan identificar riesgos, anticipar impactos y proponer medidas de adaptación.
 
-Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 14: VIDA SUBMARINA"**, en específico la **meta 14.2**, que busca “garantizar la gestión sostenible y la restauración de los ecosistemas marinos y costeros, fortaleciendo su resiliencia y asegurando la salud y productividad de los océanos”(1).
+Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 14: VIDA SUBMARINA"**, en específico la **meta 14.2**, que busca “garantizar la gestión sostenible y la restauración de los ecosistemas marinos y costeros, fortaleciendo su resiliencia y asegurando la salud y productividad de los océanos” (1).
 
-<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/a39f56b4-7280-4bf4-97ca-bfdc09974e55" />
+<img width="1600" height="577" alt="image" src="https://github.com/user-attachments/assets/b7054a5e-ed93-4d25-9c1b-3496c0fdd4c0" />
 
-La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (carbono disuelto, pH, turbidez). Los datos recolectados permitirán: detectar condiciones críticas en tiempo real, generar evidencia científica accesible y fortalecer la participación de comunidades locales en la gestión y conservación.
+La propuesta busca innovar mediante el uso de sensores de nivel de agua y salinidad, con posibilidad de integrar variables adicionales (carbono disuelto, pH, turbidez). Estos sensores estarán conectados a través de tecnología IoT, lo que permitirá transmitir información en tiempo real a plataformas digitales y aplicaciones móvil.
 
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
 
