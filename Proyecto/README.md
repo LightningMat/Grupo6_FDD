@@ -7,11 +7,11 @@ Este proyecto contribuye con el **Objetivo de Desarrollo (ODS) 14: VIDA SUBMARIN
 
 <img width="1600" height="577" alt="image" src="https://github.com/user-attachments/assets/b7054a5e-ed93-4d25-9c1b-3496c0fdd4c0" />
 
-La propuesta busca innovar mediante el uso de sensores de nivel de agua, salinidad y de CO2 en el aire, con posibilidad de integrar variables adicionales (pH, turbidez, etc). Estos sensores estarán conectados a través de tecnología IoT, lo que permitirá transmitir información en tiempo real a plataformas digitales y aplicaciones móvil.
+La propuesta busca innovar mediante el uso de sensores de nivel de agua, temperatura, ph y de conductutividad, con posibilidad de integrar variables adicionales (turbidez, CO2, etc). Estos sensores estarán conectados a través de tecnología IoT, lo que permitirá transmitir información en tiempo real a plataformas digitales y aplicaciones móvil.
 
 De esta forma, la mini estación se convierte en un puente entre ciencia, tecnología y acción climática, contribuyendo a la protección de un ecosistema clave para la mitigación del cambio climático y la seguridad de las poblaciones costeras.
 
-## ‼️Problematica
+## ‼️Problemática
 El aumento del nivel del mar provoca una intrusión salina que envenena el suelo, afectando a los árboles más allá de sus límites de tolerancia. Al mismo tiempo, el exceso de agua los ahoga lentamente, impidiendo que sus raíces obtengan el oxígeno que necesitan para sobrevivir. La falta de aireación lleva a una condición llamada hipoxia, que, junto con la salinidad extrema, causa la muerte de los árboles.Y no solo eso. La acidificación oceánica, resultado de la absorción de CO2 por el agua, crea ácido carbónico que afecta la base de la cadena alimenticia de los manglares, como los crustáceos, comprometiendo su resiliencia de manera integral. Como resultado, estamos perdiendo estos ecosistemas a un ritmo alarmante. Datos recientes muestran que, a nivel global, hemos perdido alrededor del 35% de los manglares en los últimos 50 años (2).
 
 <img width="1378" height="703" alt="image" src="https://github.com/user-attachments/assets/b962b5fd-b3f6-42a1-887c-86f56e9c0925" />
