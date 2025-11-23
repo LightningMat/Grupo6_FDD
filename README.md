@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  < img src="Recursos/Imagenes/ods14.gif " alt="ODS 12 - Producción y consumo responsables" width="1000"/>
+  <img src="Recursos/Imagenes/ods14.gif" alt="ODS 12 - Producción y consumo responsables" width="1000"/>
 </p>
 
 ---
