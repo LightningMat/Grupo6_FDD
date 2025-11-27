@@ -23,8 +23,8 @@ En el caso de Tumbes, los manglares sufren una creciente presión tanto por el c
 
 ## 🔍Objetivo del Proyecto
 Diseñar e implementar un sistema capaz de:
-- Medir en tiempo real parámetros físico-químicos como la concentracion de CO2 en el aire, la salinidad y el nivel del agua.
-- Monitorear variaciones del nivel del agua y de concentración de CO2, con el fin de detectar cambios críticos y anticipar riesgos.
+- Medir en tiempo real parámetros físico-químicos como la salinidad, pH y el nivel del agua.
+- Monitorear variaciones del nivel del agua y de concentración de ácidez, con el fin de detectar cambios críticos y anticipar riesgos.
 - Diseñar e implementar un sistema de adquisición, transmisión y almacenamiento de datos, usando tecnología IoT y energía solar, que permita la visualización y análisis de la información en plataformas digitales accesibles.
 
 
