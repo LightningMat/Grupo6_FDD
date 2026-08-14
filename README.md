@@ -35,5 +35,5 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imagenes/result_RUTH.png" width="90"/> | **Ruth Elizabeth Atiro Cobeñas** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imagenes/result_SHEY.png" width="90"/> | **Sheila Rocío Calla Mamani** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imagenes/result_BENEDICT.png" width="90"/> | **Benedict Mattew Quispe Paniagua** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imagenes/result_BENEDICT.png" width="90"/> | **Benedict Mattew Quispe Paniagua** | Desarrollo de hardware y software | Computación en la nube, desarrollo web, redes, desarrollo de software |
 | <img src="/Recursos/Imagenes/result_MARCO.png" width="90"/> | **Marco Antonio Ancco Quispe** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
